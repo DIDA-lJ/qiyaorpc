@@ -5,12 +5,12 @@
   <groupId>io.qiyao.rpc</groupId>
   <artifactId>qiyaorpc</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
   <modules>
     <module>qiyaorpc-annotation</module>
     <module>qiyaorpc-common</module>
     <module>qiyaorpc-test</module>
   </modules>
-  <packaging>pom</packaging>
 
 
 
